@@ -8,9 +8,8 @@ import {
 export default function Contact() {
   return (
     <div className="contact">
-      <h3>Contact Us</h3>
-      <span>209 Flower Ridge Dr, Fort Worth, TX 76108</span>
-      <span>817.718.4891</span>
+      <span>123 Technology St, Fort Worth, TX 99999</span>
+      <span>555.555.5555</span>
       <span>sudermansolutions@gmail.com</span>
       <div className="socials">
         <FaSquareFacebook className="social-icon" />
